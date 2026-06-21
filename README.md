@@ -1,16 +1,115 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**RamliFarijiZamhuri/RamliFarijiZamhuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Halo, Saya Ramli Fariji Zamhuri
 
-Here are some ideas to get you started:
+### 🎓 Informatics Engineering Student | Software & Systems Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+"Designing logical systems, one diagram and one class at a time."
+```
+
+Mahasiswa Teknik Informatika (S1) di **Universitas Pamulang**, yang passionate dalam membangun fondasi software yang kuat — mulai dari logika OOP, desain database yang ternormalisasi, hingga pemodelan sistem bisnis yang efisien.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Belajar+Java+OOP+%E2%80%93+Inheritance+%26+Composition;Merancang+ERD+dengan+Crow's+Foot+Notation;Eksplorasi+Soft+Systems+Methodology+(SSM);Tertarik+pada+Cloud+Architecture+%26+TCO" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 🧠 About Me
+
+- 🎓 Mahasiswa **S1 Teknik Informatika**, Universitas Pamulang
+- 🌱 Sedang mendalami **Object-Oriented Programming (OOP)** dengan Java — fokus pada konsep **Inheritance** dan **Composition**
+- 🗄️ Fokus pada **Database Design**: proses normalisasi & pemodelan **ERD (Crow's Foot Notation)** menggunakan Draw.io
+- 🔍 Tertarik pada analisis sistem: **Soft Systems Methodology (SSM)**, **CATWOE Analysis**, dan pemodelan proses bisnis via **BPMN/Activity Diagram**
+- ☁️ Mengeksplorasi **Cloud Architecture**: kalkulasi **TCO**, **CapEx vs OpEx**, skalabilitas, model layanan (**IaaS/PaaS**), **SLA**, hingga regulasi privasi data di Indonesia
+- 🔭 Sedang mengerjakan: **Desain struktural & dokumentasi sistem registrasi ORMAWA**
+- 💬 Ajak diskusi soal: System Design, Database Architecture, atau Software Engineering Best Practices
+- ⚡ Fun fact: Saya percaya *diagram yang baik bisa menjelaskan lebih dari seribu baris kode*
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+**Languages & Core**
+
+<img src="https://img.shields.io/badge/Java-FF6B35?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a2e" />
+
+**Database**
+
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a2e" />
+
+**System Design & Analysis**
+
+<img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/BPMN-8A2BE2?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/ERD%20Modeling-2E8B57?style=for-the-badge&logo=databricks&logoColor=white&labelColor=1a1a2e" />
+
+**Tools & Version Control**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1a1a2e" />
+
+**Cloud Concepts**
+
+<img src="https://img.shields.io/badge/Cloud%20Architecture-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=1a1a2e" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RamliFarijiZamhuri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamliFarijiZamhuri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RamliFarijiZamhuri&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RamliFarijiZamhuri&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B35" />
+
+</div>
+
+---
+
+## 📌 Featured Project
+
+<div align="center">
+
+### 🏛️ Sistem Registrasi Organisasi Mahasiswa (ORMAWA)
+
+*Desain struktural & dokumentasi sistem pendaftaran organisasi kemahasiswaan*
+
+</div>
+
+| Aspek | Deskripsi |
+|---|---|
+| 🧩 **Analisis Sistem** | SSM & CATWOE Analysis untuk memahami kebutuhan stakeholder |
+| 🔄 **Pemodelan Proses** | BPMN & Activity Diagram untuk alur registrasi |
+| 🗃️ **Desain Data** | ERD dengan Crow's Foot Notation (Draw.io) & proses normalisasi database |
+| 🎯 **Tujuan** | Menyediakan dokumentasi teknis yang solid sebelum tahap implementasi |
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect
+
+<img src="https://img.shields.io/badge/GitHub-RamliFarijiZamhuri-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+<br/><br/>
+
+**"Good systems start with good design — not just good code."**
+
+<img src="https://komarev.com/ghpvc/?username=RamliFarijiZamhuri&style=flat-square&color=58A6FF&label=Profile+Views" />
+
+</div>
