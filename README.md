@@ -257,9 +257,5 @@ Mahasiswa Teknik Informatika (S1) di **Universitas Pamulang**, yang passionate d
 
 </div>
 
-### 📬 Hubungi Saya
-
-*   **GitHub:** [@RamliFarijiZamhuri](https://github.com/RamliFarijiZamhuri)
-
 ```text
 Suka berdiskusi tentang System Design, Database Architecture, atau Software Engineering Best Practices. Let's connect!
