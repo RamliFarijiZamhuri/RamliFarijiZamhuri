@@ -177,18 +177,23 @@ Mahasiswa Teknik Informatika (S1) di **Universitas Pamulang**, yang passionate d
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RamliFarijiZamhuri/RamliFarijiZamhuri/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+  <!-- Menggunakan tema dark untuk kontribusi ular -->
+  <img src="https://raw.githubusercontent.com/RamliFarijiZamhuri/RamliFarijiZamhuri/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
 </div>
 
 <br />
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=RamliFarijiZamhuri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamliFarijiZamhuri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <!-- Statistik Utama dengan Background Hitam murni (#000000) dan Teks/Icon Putih (#FFFFFF) -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=RamliFarijiZamhuri&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" />
+  
+  <!-- Top Languages dengan Background Hitam murni (#000000) dan Teks Putih (#FFFFFF) -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamliFarijiZamhuri&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamliFarijiZamhuri&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" />
+  <!-- Streak Stats dengan Background Hitam murni (#000000) dan Aksen Putih (#FFFFFF) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamliFarijiZamhuri&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF" />
 </p>
 
 ---
