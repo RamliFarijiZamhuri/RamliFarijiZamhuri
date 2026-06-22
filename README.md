@@ -176,7 +176,7 @@ Mahasiswa Teknik Informatika (S1) di **Universitas Pamulang**, yang passionate d
 
 <br />
 
-<!-- BORDER UNTUK SNAKE GAME -->
+
 <table width="100%">
 <tr>
 <td bgcolor="#000000" style="border: 2px solid #ffffff; border-radius: 10px; padding: 20px;" align="center">
