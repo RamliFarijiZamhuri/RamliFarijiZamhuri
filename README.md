@@ -40,7 +40,7 @@
 
 ---
 
-### 📊 GitHub Activity & Snake Game
+### 📊 GitHub Activity
 
 <br />
 
