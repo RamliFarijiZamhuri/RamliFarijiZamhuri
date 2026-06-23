@@ -20,7 +20,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     
-   steps:
+    steps:
       # Mengaktifkan generate snake dengan kustomisasi palet warna dark & putih/abu-abu
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
