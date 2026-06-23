@@ -21,9 +21,9 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # Mengaktifkan generate snake dengan kustomisasi palet warna dark & ular putih
+      # Menggunakan versi v3 yang valid dengan parameter kustomisasi yang didukung
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v4
+        uses: Platane/snk@v3
         with:
           github_user_name: RamliFarijiZamhuri
           outputs: |
