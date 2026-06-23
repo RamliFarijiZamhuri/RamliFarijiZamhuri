@@ -20,15 +20,15 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     
-    steps:
-      # Generates a snake game from a github user (@RamliFarijiZamhuri) contributions graph, output a svg animation at <svg_out_path>
+   steps:
+      # Mengaktifkan generate snake dengan kustomisasi palet warna dark & putih/abu-abu
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: RamliFarijiZamhuri
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ffffff&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
           
       # Push content file dari folder dist ke branch bernama 'output' secara otomatis
       - name: push github-contribution-grid-snake.svg to the output branch
