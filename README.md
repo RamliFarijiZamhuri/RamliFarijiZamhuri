@@ -158,7 +158,7 @@ Mahasiswa Teknik Informatika (S1) di **Universitas Pamulang**, yang passionate d
 
 | Topik | Yang Saya Pelajari |
 
-|---|---|
+| :--- | :--- |
 
 | 🧩 **Model OSI & TCP/IP** | Memahami layer komunikasi data dari fisik hingga aplikasi |
 
