@@ -186,9 +186,14 @@ Mahasiswa Teknik Informatika (S1) di **Universitas Pamulang**, yang passionate d
 
 <br />
 
+<div align="center" style="border: 2px solid white; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #000000;">
+  <!-- Kartu Solved Problems LeetCode murni dengan username huruf kecil -->
+  <img height="160" src="https://leetcard.jacoblin.cool/ramlifarijizamhuri?theme=dark&font=Karma" alt="LeetCode Stats" />
+</div>
+
 <div align="center" style="border: 2px solid white; border-radius: 10px; padding: 15px; margin-bottom: 20px;">
   <!-- Statistik Utama -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=RamliFarijiZamhuri&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=RamliFarijiZamhuri&show_icons=true&h"/>
   &nbsp;&nbsp;
   <!-- Top Languages -->
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamliFarijiZamhuri&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" />
