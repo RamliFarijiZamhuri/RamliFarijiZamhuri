@@ -176,7 +176,7 @@ Mahasiswa Teknik Informatika (S1) di **Universitas Pamulang**, yang passionate d
 
 <br />
 
-<!-- Snake Game (Sudah Aman) -->
+<!-- 1. SNAKE GAME -->
 <table width="100%">
 <tr>
 <td bgcolor="#000000" style="border: 2px solid #ffffff; border-radius: 10px; padding: 20px;" align="center">
@@ -187,22 +187,20 @@ Mahasiswa Teknik Informatika (S1) di **Universitas Pamulang**, yang passionate d
 
 <br />
 
-<!-- PERBAIKAN: Baris Gabungan untuk Main Stats dan Languages -->
+<!-- 2. MAIN STATS & TOP LANGUAGES (MENGGUNAKAN SERVER MIRROR STABIL) -->
 <table width="100%">
 <tr>
 <td bgcolor="#000000" style="border: 2px solid #ffffff; border-radius: 10px; padding: 15px;" align="center">
-  <!-- Link Diperbaiki untuk Main Stats -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=RamliFarijiZamhuri&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" alt="Ramli's Main Stats" />
+  <img height="160" src="https://github-readme-stats-readme-stats.vercel.app/api?username=RamliFarijiZamhuri&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" alt="Ramli's Main Stats" />
   &nbsp;&nbsp;
-  <!-- Link Diperbaiki untuk Languages -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamliFarijiZamhuri&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" alt="Ramli's Top Languages" />
+  <img height="160" src="https://github-readme-stats-readme-stats.vercel.app/api/top-langs/?username=RamliFarijiZamhuri&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" alt="Ramli's Top Languages" />
 </td>
 </tr>
 </table>
 
 <br />
 
-<!-- Streak Stats (Sudah Gabung ke Tabel Agar Seragam) -->
+<!-- 3. STREAK STATS -->
 <table width="100%">
 <tr>
 <td bgcolor="#000000" style="border: 2px solid #ffffff; border-radius: 10px; padding: 15px;" align="center">
