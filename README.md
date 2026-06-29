@@ -187,27 +187,19 @@ Mahasiswa Teknik Informatika (S1) di **Universitas Pamulang**, yang passionate d
 
 <br />
 
-<!-- 2. MAIN STATS & TOP LANGUAGES (MENGGUNAKAN SERVER MIRROR STABIL) -->
-<table width="100%">
-<tr>
-<td bgcolor="#000000" style="border: 2px solid #ffffff; border-radius: 10px; padding: 15px;" align="center">
-  <img height="160" src="https://github-readme-stats-readme-stats.vercel.app/api?username=RamliFarijiZamhuri&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" alt="Ramli's Main Stats" />
+<!-- 2. SOLVED & MOST LANGUAGES (MENGGUNAKAN ALTERNATIF SERVER YANG AKTIF DAN BEBAS ERROR) -->
+<div align="center" style="border: 2px solid white; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #000000;">
+  <!-- Sisi Kiri: Ringkasan Detail Performa Profil (Pengganti Solved Stats) -->
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RamliFarijiZamhuri&theme=2140" alt="Ramli's Performance Stats" />
   &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats-readme-stats.vercel.app/api/top-langs/?username=RamliFarijiZamhuri&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" alt="Ramli's Top Languages" />
-</td>
-</tr>
-</table>
+  <!-- Sisi Kanan: Bahasa yang Paling Sering Digunakan -->
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RamliFarijiZamhuri&theme=2140" alt="Most Used Languages" />
+</div>
 
-<br />
-
-<!-- 3. STREAK STATS -->
-<table width="100%">
-<tr>
-<td bgcolor="#000000" style="border: 2px solid #ffffff; border-radius: 10px; padding: 15px;" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamliFarijiZamhuri&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF" alt="Ramli's Streak Stats" />
-</td>
-</tr>
-</table>
+<div align="center" style="border: 2px solid white; border-radius: 10px; padding: 15px; margin-bottom: 20px;">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamliFarijiZamhuri&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF" />
+</div>
 
 ---
 
