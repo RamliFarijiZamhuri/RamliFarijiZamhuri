@@ -176,7 +176,7 @@ Mahasiswa Teknik Informatika (S1) di **Universitas Pamulang**, yang passionate d
 
 <br />
 
-
+<!-- BORDER UNTUK SNAKE GAME (SUDAH AMAN) -->
 <table width="100%">
 <tr>
 <td bgcolor="#000000" style="border: 2px solid #ffffff; border-radius: 10px; padding: 20px;" align="center">
@@ -187,19 +187,27 @@ Mahasiswa Teknik Informatika (S1) di **Universitas Pamulang**, yang passionate d
 
 <br />
 
-<div align="center" style="border: 2px solid white; border-radius: 10px; padding: 15px; margin-bottom: 20px; display: flex; justify-content: center; gap: 10px;">
-  <!-- Statistik Utama dengan Background Hitam murni (#000000) dan Teks/Icon Putih (#FFFFFF) -->
+<!-- PERBAIKAN: BORDER UNTUK STATS & LANGUAGES (MENGGUNAKAN TABEL AGAR SEJAJAR) -->
+<table width="100%">
+<tr>
+<td bgcolor="#000000" style="border: 2px solid #ffffff; border-radius: 10px; padding: 15px;" align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=RamliFarijiZamhuri&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" />
-  
-  <!-- Top Languages dengan Background Hitam murni (#000000) dan Teks Putih (#FFFFFF) -->
+  &nbsp;&nbsp;
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamliFarijiZamhuri&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" />
-</div>
+</td>
+</tr>
+</table>
 
-<div align="center" style="border: 2px solid white; border-radius: 10px; padding: 15px; margin-bottom: 20px;">
-  <!-- Streak Stats dengan Background Hitam murni (#000000) dan Aksen Putih (#FFFFFF) -->
+<br />
+
+<!-- PERBAIKAN: BORDER UNTUK STREAK STATS (MENGGUNAKAN TABEL) -->
+<table width="100%">
+<tr>
+<td bgcolor="#000000" style="border: 2px solid #ffffff; border-radius: 10px; padding: 15px;" align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamliFarijiZamhuri&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF" />
-</div>
-
+</td>
+</tr>
+</table>
 ---
 
 ## 📌 Featured Project
