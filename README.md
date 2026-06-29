@@ -176,7 +176,6 @@ Mahasiswa Teknik Informatika (S1) di **Universitas Pamulang**, yang passionate d
 
 <br />
 
-<!-- 1. SNAKE GAME -->
 <table width="100%">
 <tr>
 <td bgcolor="#000000" style="border: 2px solid #ffffff; border-radius: 10px; padding: 20px;" align="center">
@@ -187,13 +186,12 @@ Mahasiswa Teknik Informatika (S1) di **Universitas Pamulang**, yang passionate d
 
 <br />
 
-<!-- 2. SOLVED & MOST LANGUAGES (MENGGUNAKAN ALTERNATIF SERVER YANG AKTIF DAN BEBAS ERROR) -->
-<div align="center" style="border: 2px solid white; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #000000;">
-  <!-- Sisi Kiri: Ringkasan Detail Performa Profil (Pengganti Solved Stats) -->
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RamliFarijiZamhuri&theme=2140" alt="Ramli's Performance Stats" />
+<div align="center" style="border: 2px solid white; border-radius: 10px; padding: 15px; margin-bottom: 20px;">
+  <!-- Statistik Utama -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=RamliFarijiZamhuri&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" />
   &nbsp;&nbsp;
-  <!-- Sisi Kanan: Bahasa yang Paling Sering Digunakan -->
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RamliFarijiZamhuri&theme=2140" alt="Most Used Languages" />
+  <!-- Top Languages -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamliFarijiZamhuri&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" />
 </div>
 
 <div align="center" style="border: 2px solid white; border-radius: 10px; padding: 15px; margin-bottom: 20px;">
