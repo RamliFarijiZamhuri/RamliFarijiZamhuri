@@ -189,9 +189,8 @@ Mahasiswa Teknik Informatika (S1) di **Universitas Pamulang**, yang passionate d
 <a href="https://github.com/RamliFarijiZamhuri">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RamliFarijiZamhuri&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
 </a>
-&nbsp;&nbsp;
 <a href="https://github.com/RamliFarijiZamhuri">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamliFarijiZamhuri&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamliFarijiZamhuri&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" alt="Most Used Languages" />
 </a>
 
 <br/><br/>
@@ -200,9 +199,8 @@ Mahasiswa Teknik Informatika (S1) di **Universitas Pamulang**, yang passionate d
 <a href="https://github.com/RamliFarijiZamhuri">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RamliFarijiZamhuri&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
 </a>
-&nbsp;&nbsp;
 <a href="https://leetcode.com/ramlifarijizamhuri">
-  <img align="center" src="https://leetcard.jacoblin.cool/ramlifarijizamhuri?theme=dark&font=Karma&ext=activity" height="160" alt="LeetCode Stats" />
+  <img align="center" src="https://leetcard.jacoblin.cool/ramlifarijizamhuri?theme=dark&font=Karma" height="160" alt="LeetCode Stats" />
 </a>
 
 </div>
