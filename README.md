@@ -172,36 +172,39 @@ Mahasiswa Teknik Informatika (S1) di **Universitas Pamulang**, yang passionate d
 
 ---
 
-### 📊 GitHub Activity
+## 📊 GitHub Activity & Stats
 
-<br />
+<div align="center">
 
-<table width="100%">
-<tr>
-<td bgcolor="#000000" style="border: 2px solid #ffffff; border-radius: 10px; padding: 20px;" align="center">
-  <img src="https://raw.githubusercontent.com/RamliFarijiZamhuri/RamliFarijiZamhuri/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" width="100%" />
-</td>
-</tr>
-</table>
+<!-- Snake Contribution Animation (Auto Light/Dark Mode) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RamliFarijiZamhuri/RamliFarijiZamhuri/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RamliFarijiZamhuri/RamliFarijiZamhuri/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RamliFarijiZamhuri/RamliFarijiZamhuri/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
-<br />
+<br/><br/>
 
-<div align="center" style="border: 2px solid white; border-radius: 10px; padding: 15px; margin-bottom: 20px; background-color: #000000;">
-  <!-- Kartu Solved Problems LeetCode murni dengan username huruf kecil -->
-  <img height="160" src="https://leetcard.jacoblin.cool/ramlifarijizamhuri?theme=dark&font=Karma" alt="LeetCode Stats" />
-</div>
+<!-- Main Stats & Top Languages -->
+<a href="https://github.com/RamliFarijiZamhuri">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RamliFarijiZamhuri&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/RamliFarijiZamhuri">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamliFarijiZamhuri&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+</a>
 
-<div align="center" style="border: 2px solid white; border-radius: 10px; padding: 15px; margin-bottom: 20px;">
-  <!-- Statistik Utama -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=RamliFarijiZamhuri&show_icons=true&h"/>
-  &nbsp;&nbsp;
-  <!-- Top Languages -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamliFarijiZamhuri&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" />
-</div>
+<br/><br/>
 
-<div align="center" style="border: 2px solid white; border-radius: 10px; padding: 15px; margin-bottom: 20px;">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamliFarijiZamhuri&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF" />
+<!-- Streak & LeetCode Stats -->
+<a href="https://github.com/RamliFarijiZamhuri">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RamliFarijiZamhuri&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
+</a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/ramlifarijizamhuri">
+  <img align="center" src="https://leetcard.jacoblin.cool/ramlifarijizamhuri?theme=dark&font=Karma&ext=activity" height="160" alt="LeetCode Stats" />
+</a>
+
 </div>
 
 ---

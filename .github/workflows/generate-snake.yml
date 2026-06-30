@@ -1,9 +1,9 @@
 name: Generate Snake
 
 on:
-  # Berjalan otomatis setiap 12 jam
+  # Berjalan otomatis setiap 6 jam
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */6 * * *"
   
   # Mengizinkan kamu menjalankan script ini secara manual kapan saja dari tab Actions
   workflow_dispatch:
