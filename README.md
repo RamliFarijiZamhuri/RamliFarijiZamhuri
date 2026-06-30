@@ -199,7 +199,7 @@ Mahasiswa Teknik Informatika (S1) di **Universitas Pamulang**, yang passionate d
 <a href="https://github.com/RamliFarijiZamhuri">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RamliFarijiZamhuri&theme=tokyonight&hide_border=true&mode=compact" height="160" alt="GitHub Streak" />
 </a>
-<a href="https://leetcode.com/ramlifarijizamhuri">
+<a href="https://github.com/RamliFarijiZamhuri">
   <img align="center" height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RamliFarijiZamhuri&theme=tokyonight" alt="Profile Details" />
 </a>
 
