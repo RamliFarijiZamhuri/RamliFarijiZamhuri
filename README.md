@@ -187,10 +187,10 @@ Mahasiswa Teknik Informatika (S1) di **Universitas Pamulang**, yang passionate d
 
 <!-- Main Stats & Top Languages -->
 <a href="https://github.com/RamliFarijiZamhuri">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RamliFarijiZamhuri&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
+  <img height="160" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RamliFarijiZamhuri&show_icons=true&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6&icon_color=7aa2f7" height="160" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/RamliFarijiZamhuri">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamliFarijiZamhuri&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" alt="Most Used Languages" />
+ <img height="160"align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RamliFarijiZamhuri&layout=compact&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6&icon_color=7aa2f7" alt="Most Used Languages" />
 </a>
 
 <br/><br/>
@@ -200,7 +200,7 @@ Mahasiswa Teknik Informatika (S1) di **Universitas Pamulang**, yang passionate d
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RamliFarijiZamhuri&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
 </a>
 <a href="https://leetcode.com/ramlifarijizamhuri">
-  <img align="center" src="https://leetcard.jacoblin.cool/ramlifarijizamhuri?theme=dark&font=Karma" height="160" alt="LeetCode Stats" />
+  <img align="center" height="160" src="https://leetcard.jacoblin.cool/ramlifarijizamhuri?colors=1a1b26,24283b,a9b1d6,ffffff,7aa2f7,2ac3de,e0af68,f7768e&font=Karma&border=0" alt="LeetCode Stats" />
 </a>
 
 </div>
