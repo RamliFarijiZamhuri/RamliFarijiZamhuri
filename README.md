@@ -186,19 +186,15 @@ Mahasiswa Teknik Informatika (S1) di **Universitas Pamulang**, yang passionate d
 <br/><br/>
 
 <!-- Main Stats & Top Languages -->
-<a href="https://github.com/RamliFarijiZamhuri">
+<a>
   <img height="160"align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RamliFarijiZamhuri&theme=tokyonight" alt="GitHub Stats Alternatif" />
-</a>
-<a href="https://github.com/RamliFarijiZamhuri">
  <img height="160"align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RamliFarijiZamhuri&layout=compact&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6&icon_color=7aa2f7" alt="Most Used Languages" />
 </a>
 
 
-<!-- Streak & LeetCode Stats -->
-<a href="https://github.com/RamliFarijiZamhuri">
+<!-- Streak & Profile Details -->
+<a>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RamliFarijiZamhuri&theme=tokyonight&hide_border=true&mode=compact" height="160" alt="GitHub Streak" />
-</a>
-<a href="https://github.com/RamliFarijiZamhuri">
   <img align="center" height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RamliFarijiZamhuri&theme=tokyonight" alt="Profile Details" />
 </a>
 
