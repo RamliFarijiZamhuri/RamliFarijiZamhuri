@@ -187,8 +187,8 @@ Mahasiswa Teknik Informatika (S1) di **Universitas Pamulang**, yang passionate d
 
 <!-- Main Stats & Top Languages -->
 <a>
-  <img height="160"align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RamliFarijiZamhuri&theme=tokyonight" alt="GitHub Stats Alternatif" />
- <img height="160"align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RamliFarijiZamhuri&layout=compact&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6&icon_color=7aa2f7" alt="Most Used Languages" />
+  <img height="160"align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RamliFarijiZamhuri&theme=tokyonight&title_color=7aa2f7" alt="GitHub Stats Alternatif" />
+  <img height="160"align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RamliFarijiZamhuri&layout=compact&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6&icon_color=7aa2f7" alt="Most Used Languages" />
 </a>
 
 
