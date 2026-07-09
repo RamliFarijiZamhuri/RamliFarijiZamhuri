@@ -224,7 +224,6 @@ Mahasiswa Teknik Informatika (S1) di **Universitas Pamulang**, yang passionate d
 
 | Aspek | Deskripsi |
 
-|---|---|
 
 | 🧩 **Analisis Sistem** | SSM & CATWOE Analysis untuk memahami kebutuhan stakeholder |
 
