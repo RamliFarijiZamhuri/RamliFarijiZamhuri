@@ -50,8 +50,6 @@ Mahasiswa Teknik Informatika (S1) di **Universitas Pamulang**, yang passionate d
 
 - ☁️ Mengeksplorasi **Cloud Architecture**: kalkulasi **TCO**, **CapEx vs OpEx**, skalabilitas, model layanan (**IaaS/PaaS**), **SLA**, hingga regulasi privasi data di Indonesia
 
-- 🔭 Sedang mengerjakan: **Desain struktural & dokumentasi sistem registrasi ORMAWA**
-
 - 💬 Ajak diskusi soal: System Design, Database Architecture, Networking, atau Software Engineering Best Practices
 
 - ⚡ Fun fact: Saya percaya *diagram yang baik bisa menjelaskan lebih dari seribu baris kode*
