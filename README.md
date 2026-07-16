@@ -152,9 +152,7 @@ Mahasiswa Teknik Informatika (S1) di **Universitas Pamulang**, yang passionate d
 
 </div>
 
-
-
-
+<br><br/>
 
 | Topik | Yang Saya Pelajari |
 
