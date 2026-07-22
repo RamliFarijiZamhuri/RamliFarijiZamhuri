@@ -18,7 +18,6 @@
 
 
 
-
 Mahasiswa Teknik Informatika (S1) di **Universitas Pamulang**, yang passionate dalam membangun fondasi software yang kuat — mulai dari logika OOP, desain database yang ternormalisasi, hingga pemodelan sistem bisnis yang efisien.
 
 
