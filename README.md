@@ -21,6 +21,7 @@ Mahasiswa Teknik Informatika (S1) di **Universitas Pamulang**, yang passionate d
 
 
 
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Belajar+OOP+%E2%80%93+Inheritance+%26+Composition;Merancang+ERD+dengan+Crow's+Foot+Notation;Eksplorasi+Soft+Systems+Methodology+(SSM);Tertarik+pada+Cloud+Architecture+%26+TCO" alt="Typing SVG" />
 
 
