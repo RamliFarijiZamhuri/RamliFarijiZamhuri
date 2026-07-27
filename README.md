@@ -138,7 +138,6 @@ Mahasiswa Teknik Informatika (S1) di **Universitas Pamulang**, yang passionate d
 <div align="center">
 
 
-
 <img src="https://img.shields.io/badge/TCP%2FIP-2496ED?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1a1a2e" />
 
 <img src="https://img.shields.io/badge/OSI%20Model-2496ED?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1a1a2e" />
