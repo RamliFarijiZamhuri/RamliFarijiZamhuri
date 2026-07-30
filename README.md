@@ -54,7 +54,6 @@ Mahasiswa Teknik Informatika (S1) di **Universitas Pamulang**, yang passionate d
 - ⚡ Fun fact: Saya percaya *diagram yang baik bisa menjelaskan lebih dari seribu baris kode*
 
 
-
 ---
 
 
